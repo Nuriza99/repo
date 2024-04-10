@@ -1,0 +1,39 @@
+body{
+	background: lightblue;
+	font-family: Fantasy;
+}
+h1,h2{
+	front-size: 8px;
+	color: darkred;
+}
+
+p{
+	color: blue;
+	front-style: italic ;
+	font-size: 8px;
+
+}
+.ol-list {
+	background-color: lightgreen;
+font-family: monospace;
+
+}.ul-list{
+	background-color: lightgreen;
+	font-family: monospace;
+}
+,header,footer{
+	text-align: center;
+	border: solid;
+	font-size: 8px;
+}
+section{
+	border: solid;
+}
+.image-style{
+	height: 300px;
+	margin: 20px;
+	border: 1px solid red;
+	padding: 15px;
+	box-shadow: 5px 5px pink;
+
+}
